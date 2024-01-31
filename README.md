@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# MovieRecommendationSystem
 
 <h2>Description</h2>
 Data science python program in JupyterLab which acts as a search engine, taking in a movie title input and outputting 10+ movie recommendations.
@@ -20,7 +20,7 @@ Uses Scikit machine learning python library to implement the user-based collabor
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Input file of data to be encoded/decoded: 
+webscraping: collected data and cleaned the title to be able to process them more effectively in this search engine.
 <br/>
 <img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/b5f30f3d-5ca5-4e86-a7a1-d45d6f2b0957" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
